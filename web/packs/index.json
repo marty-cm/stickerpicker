@@ -1,6 +1,8 @@
 {
   "packs": [
-    "martypolecat.json"
+    "martypolecat.json",
+    "Weaseltrash3.json",
+    "LowResFerrets.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
