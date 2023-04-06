@@ -3,7 +3,8 @@
     "martypolecat.json",
     "Weaseltrash3.json",
     "LowResFerrets.json",
-    "Coyotefaces.json"
+    "Coyotefaces.json",
+    "coyotes.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
